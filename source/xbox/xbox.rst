@@ -7,5 +7,5 @@ XBOX Pages
 
    xbox_pages/history
    xbox_pages/games
-   xbox_pages/platform
+   xbox_pages/microsoft
    xbox_pages/reviews

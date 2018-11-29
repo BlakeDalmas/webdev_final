@@ -40,15 +40,18 @@ Images:
 
    This caption on picture needs to be indented by 3 spaces and have a blank line above it.
 
-This is a level 2 heading
--------------------------
+Halo 2
+------
 
 Another heading
 
-This is another 2
------------------
+Call of Duty: Modern Warfare 3
+------------------------------
 
 blah
+
+Call of Duty: Black Ops III
+---------------------------
 
 Level 3
 ~~~~~~~
@@ -70,7 +73,6 @@ Level 3
 	}
 
 Sample Table
-------------
 
 ========= =================
 Fruit     Review
