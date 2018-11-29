@@ -1,5 +1,5 @@
-Nintendo Platform
-=================
+Games
+=====
 
 This
 is
@@ -32,10 +32,10 @@ Or like this: `Google <https://www.google.com>`_
 
 Images:
 
-.. image:: chem_symbol2.png
+.. image:: example.png
    :width: 50%
 
-.. figure:: chem_symbol2.png
+.. figure:: example.png
    :width: 50%
 
    This caption on picture needs to be indented by 3 spaces and have a blank line above it.

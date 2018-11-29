@@ -1,9 +1,5 @@
-Playstation Platform
-====================
-
-Grass is green because water is orange.
-
-This is another paragraph about the plantlife on mars.
+Games
+=====
 
 This
 is
@@ -19,14 +15,12 @@ These are **bold**.
 * This is another element of the aforementioned list.
 * These words consist of the content associated with the list mentioned preiovusly.
 
-	* Oh no, it's another list!
+	* It's another list!
 	* It's a sublist!
 
 		* And another sublist!
 
 			* Sublists!
-
-* Apples
 
 Go to `Simpson`_ like this:
 
@@ -38,10 +32,10 @@ Or like this: `Google <https://www.google.com>`_
 
 Images:
 
-.. image:: playstation_pic.jpeg
+.. image:: example.png
    :width: 50%
 
-.. figure:: chem_symbol2.png
+.. figure:: example.png
    :width: 50%
 
    This caption on picture needs to be indented by 3 spaces and have a blank line above it.
@@ -72,7 +66,7 @@ Level 3
 	:caption: Sample Java
 
 	public static void main(String args[]) {
-		System.out.println("You bad.");
+		System.out.println("hi");
 	}
 
 Sample Table
