@@ -13,10 +13,10 @@ Test!
    :maxdepth: 2
    :caption: Contents:
 
-   ps/index
-   xbox/index
-   nintendo/index
-   pc/index
+   ps/ps
+   xbox/xbox
+   nintendo/nintendo
+   pc/pc
 
 
 Indices and tables
