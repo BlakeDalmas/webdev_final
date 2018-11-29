@@ -1,15 +1,25 @@
 History
 =======
 
-This
-is
-all
-one
-paragraph.
+The Playstation has been around since the first installment of it the PS1 in 1994.
+Since this start they have made 3 major additions with the latest being the PS4, 
+which was released in 2013 and has had a few refreshes since this release. Along 
+with these main gaming consoles they also released a portable version of their console
+called the PSP which released in 2005. With a history as long as Playstation's 
+there is a lot to learn about this console that is now a household name and owned
+by millions. 
 
-This is *italics*.
+Playstation 1
+-------------
 
-These are **bold**.
+As I mentioned before the PS1 came out December of 1994 and changed the gaming 
+industry forever. This started a trend of owning your own gaming consoles and this
+trend has grown to the extent where almost every household owns at least some kind 
+of gaming console. 
+
+.. image:: ps1.jpg
+	:width: 100%
+	
 
 * This is a list.
 * This is another element of the aforementioned list.
