@@ -1,82 +1,20 @@
 History
 =======
 
-This
-is
-all
-one
-paragraph.
+stuff about history
 
-This is *italics*.
+The first game
+--------------
 
-These are **bold**.
+the like thing on the like radar or whatever
 
-* This is a list.
-* This is another element of the aforementioned list.
-* These words consist of the content associated with the list mentioned preiovusly.
 
-	* It's another list!
-	* It's a sublist!
+pacman or something
+-------------------
 
-		* And another sublist!
+yeah the like yellow guy
 
-			* Sublists!
+other stuff
+-----------
 
-Go to `Simpson`_ like this:
-
-.. _Simpson: http://simpson.edu
-
-Or like this: `Google <https://www.google.com>`_
-
-``This is monospaced text.``
-
-Images:
-
-.. image:: example.png
-   :width: 50%
-
-.. figure:: example.png
-   :width: 50%
-
-   This caption on picture needs to be indented by 3 spaces and have a blank line above it.
-
-This is a level 2 heading
--------------------------
-
-Another heading
-
-This is another 2
------------------
-
-blah
-
-Level 3
-~~~~~~~
-
-.. code-block:: python
-	:linenos:
-	:caption: Sample Code
-
-	# Sample Code
-	for i in range(1, 5):
-		print(i)
-
-.. code-block:: java
-	:linenos:
-	:caption: Sample Java
-
-	public static void main(String args[]) {
-		System.out.println("hi");
-	}
-
-Sample Table
-------------
-
-========= =================
-Fruit     Review
-========= =================
-Apple     3 stars
-Grapes    3 stars
-Pears     5 stars
-========= =================
-
+nice
