@@ -1,7 +1,7 @@
 Playstation Platform
 ====================
 
-Grass is green because water is blue.
+Grass is green because water is orange.
 
 This is another paragraph about the plantlife on mars.
 
@@ -38,7 +38,7 @@ Or like this: `Google <https://www.google.com>`_
 
 Images:
 
-.. image:: chem_symbol2.png
+.. image:: playstation_pic.jpeg
    :width: 50%
 
 .. figure:: chem_symbol2.png
