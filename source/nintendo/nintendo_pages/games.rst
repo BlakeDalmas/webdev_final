@@ -1,82 +1,44 @@
 Games
 =====
 
-This
-is
-all
-one
-paragraph.
+The Wii is a very popular Nintendo game because of it's ability to be active while playing. The controllers are wireless and require movement in order to control the game. 
 
-This is *italics*.
+Some of the Wii's most popular games are:
 
-These are **bold**.
+**Wii Sports**
 
-* This is a list.
-* This is another element of the aforementioned list.
-* These words consist of the content associated with the list mentioned preiovusly.
-
-	* It's another list!
-	* It's a sublist!
-
-		* And another sublist!
-
-			* Sublists!
-
-Go to `Simpson`_ like this:
-
-.. _Simpson: http://simpson.edu
-
-Or like this: `Google <https://www.google.com>`_
-
-``This is monospaced text.``
-
-Images:
-
-.. image:: example.png
+.. image:: wii_sports.jpg
    :width: 50%
 
-.. figure:: example.png
+*Wii Sports* was released in 2006 and can play up to 4 people. This games offers many different sports, such as tennis, bowling, golf, boxing and more! 
+
+**Mario Kart**
+
+.. image:: mario_kart.jpg
    :width: 50%
 
-   This caption on picture needs to be indented by 3 spaces and have a blank line above it.
+*Mario Kart* was released in 2008 and can play up to 12 people. This is a fun racing game with all of your favorite courses from previous Nintendo system, plus many new, exciting courses! This game also allows the user to purchase a Wii Wheel to transform the remote into a steering wheel. 
 
-This is a level 2 heading
--------------------------
+**Just Dance**
 
-Another heading
+.. image:: just_dance.jpg
+   :width: 50%
 
-This is another 2
------------------
+*Just Dance* is a dancing series game, with new games released every year. These games feature the most current popular songs and is motion-based, with each song having its own choreography. 
 
-blah
+Other popular Wii games:
 
-Level 3
-~~~~~~~
+* Super Smash Bros.
+	* Released: 2008
+* The Sims 3
+	* Released: 2009
+* Mario & Sonic at the Olympic Games
+	* Released: 2008
+* Super Mario Galaxy
+	* Released: 2007
+* Wii Sports Resort
+	* Released: 2009
 
-.. code-block:: python
-	:linenos:
-	:caption: Sample Code
 
-	# Sample Code
-	for i in range(1, 5):
-		print(i)
 
-.. code-block:: java
-	:linenos:
-	:caption: Sample Java
-
-	public static void main(String args[]) {
-		System.out.println("hi");
-	}
-
-Sample Table
-------------
-
-========= =================
-Fruit     Review
-========= =================
-Apple     3 stars
-Grapes    3 stars
-Pears     5 stars
-========= =================
 
