@@ -31,7 +31,7 @@ PlayStation 3
 * Gran Turismo 5 took back the most sold game for PS3 with 11.94 million copies.
 * Released 2010
 
-..image:: gt5.jpg
+.. image:: gt5.jpg
 	:width: 50%
 
 PlayStation 4
@@ -41,7 +41,7 @@ PlayStation 4
   sold, however, not all of these were sold on PS4.
 * Released 2013
 
-..image:: gta_5.jpg
+.. image:: gta_5.jpg
 	:width: 100%
 
 
