@@ -10,7 +10,10 @@ company in the 1970s after their attempts at other businesses. Now, they are one
 of Japan's most well-known companies and have a market value of over $85
 billion.
 
-History ------- Fusajiro Yamauchi founded Nintendo first as a playing card
+History 
+-------
+
+Fusajiro Yamauchi founded Nintendo first as a playing card
 company. The company quickly took off and began to mass produce cards. The name,
 "Nintendo" was first introduced in 1949. Yamauchi's grandson, Hiroshi Yamauchi
 realized that the playing card business was not a very wide business and started
@@ -22,7 +25,9 @@ they shifted focuses and came out with the Laser Clay Shooting System. After the
 success of this product, Nintendo released many other light gun machines for
 arcades.
 
-Video Game Industry ------------------- In 1974, Nintendo ventured into the
+Video Game Industry
+-------------------
+In 1974, Nintendo ventured into the
 gaming industry and distributed the Magnavox Odyssey video game console. In
 1975, the company moved into video arcade games and hired their first game
 designer. They had success, but nothing compared to the success they gained from
@@ -34,24 +39,41 @@ interchangeable games. This became rather popular and the design was soon
 patented by Nintendo. Since then, Nintendo has produced many other gaming
 systems and become a globally known name.
 
-Products ~~~~~~~~~
+Products 
+~~~~~~~~~
 
-=================================== ================= Product
-Release Date =================================== ================= Color TV-Game
-1977 Nintendo Entertainment System       1985 Super Nintendo Entertainment
-System 1991 Nintendo 64                         1996 Game Cube
-2001 Wii                                 2006 Wii U
-2012 Nintendo Switch                     2015
+=================================== =================
+Product                             Release Date
+=================================== =================
+Color TV-Game                       1977
+Nintendo Entertainment System       1985
+Super Nintendo Entertainment System 1991
+Nintendo 64                         1996
+Game Cube		                    2001
+Wii				                    2006
+Wii U  			                    2012
+Nintendo Switch	                    2015
 =================================== =================
 
-Handheld Consoles ~~~~~~~~~~~~~~~~~~
 
-================ ================= Product          Release Date
-================ ================= Game & Watch     1980-1991 Game Boy
-1989 Game Boy Advance 2001 Nintendo DS      2004 Nintendo 3DS     2011
+Handheld Consoles 
+~~~~~~~~~~~~~~~~~~
+
+================ =================
+Product          Release Date
+================ =================
+Game & Watch     1980-1991
+Game Boy         1989
+Game Boy Advance 2001
+Nintendo DS      2004
+Nintendo 3DS	 2011
 ================ =================
 
-Links ----- For more information about the `Nintendo Company`_ or its products,
+
+Links
+-----
+ 
+For more information about the `Nintendo Company`_ or its products,
 please visit their homepage.
 
 
