@@ -17,8 +17,10 @@ industry forever. This started a trend of owning your own gaming consoles and th
 trend has grown to the extent where almost every household owns at least some kind 
 of gaming console. 
 
-.. image:: ps1_pic.jpg
+.. figure:: ps1_pic.jpg
 	:width: 100%
+
+	https://en.wikipedia.org/wiki/PlayStation_(console)#/media/File:PSX-Console-wController.jpg
 
 PlayStation 2
 -------------
@@ -27,8 +29,10 @@ The PS2 came out in 2000 and was instantly a big competitor to many of the other
 consoles being released during the time. It was also the best selling console ever
 having sold over 155 million units world wide. 
 
-.. image:: ps2_pic.jpg
+.. figure:: ps2_pic.jpg
 	:width: 100%
+
+	https://en.wikipedia.org/wiki/PlayStation_2#/media/File:PS2-Versions.jpg
 
 PlayStation Portable
 --------------------
@@ -39,8 +43,10 @@ DS. It released in 2004 and became the most powerful portable system on release
 making it the only real competitor to the Nintendo DS which had been dominating 
 hand-held game console market. 
 
-.. image:: psp_pic.png
+.. figure:: psp_pic.png
 	:width: 100%
+
+	https://www.lifewire.com/things-to-do-with-psp-2792818
 
 PlayStation 3
 -------------
@@ -51,8 +57,10 @@ Unlike the previous PlayStations the PS3 had 2 revives after the initial release
 The first reinstatement came in 2009 and was the PS3 Slim, 3 years after that they
 released the PS3 Super Slim. 
 
-.. image:: ps3_pic.jpg
+.. figure:: ps3_pic.jpg
 	:width: 100%
+
+	https://en.wikipedia.org/wiki/PlayStation_3#/media/File:Sony-PlayStation-3-2001A-wController-L.jpg
 
 PlayStation 4
 -------------
@@ -63,8 +71,10 @@ most powerful. after its initial release date there have been two major revision
 of the console with the PlayStation 4 Slim and then the PlayStation 4 Pro coming 
 out in 2016. 
 
-.. image:: ps4_pic.jpg
+.. figure:: ps4_pic.jpg
 	:width: 100% 
+
+	https://www.gamespot.com/articles/ps4-vs-ps4-pro-vs-ps4-slim-what-are-the-difference/1100-6456440/
 
 Time Table
 ----------
