@@ -1,82 +1,32 @@
 Reviews
 =======
 
-This
-is
-all
-one
-paragraph.
+PlayStation
+-----------
 
-This is *italics*.
+Being the most sold gaming console it can be deemed the most successful console
+and to many people the best overall gaming device. 
 
-These are **bold**.
+.. image:: consoles.jpg
+   :width: 100%
 
-* This is a list.
-* This is another element of the aforementioned list.
-* These words consist of the content associated with the list mentioned preiovusly.
+Cost
+----
 
-	* It's another list!
-	* It's a sublist!
+Since I haven't discussed it in previous sections and it is important information
+here is an overview of the cost and a section of the reduced cost since many of them
+were reduced in cost after their initial release.
 
-		* And another sublist!
+========= ========== ============
+Device    Cost       Reduced Cost
+========= ========== ============
+PS1       $299       $100
+PS2       $299       $100-200
+PSP       $249       $129
+PS3       $499       $200
+PS4       $399       $200
+PS4 Pro   $399       $300
+========= ========== ============
 
-			* Sublists!
 
-Go to `Simpson`_ like this:
-
-.. _Simpson: http://simpson.edu
-
-Or like this: `Google <https://www.google.com>`_
-
-``This is monospaced text.``
-
-Images:
-
-.. image:: example.png
-   :width: 50%
-
-.. figure:: example.png
-   :width: 50%
-
-   This caption on picture needs to be indented by 3 spaces and have a blank line above it.
-
-This is a level 2 heading
--------------------------
-
-Another heading
-
-This is another 2
------------------
-
-blah
-
-Level 3
-~~~~~~~
-
-.. code-block:: python
-	:linenos:
-	:caption: Sample Code
-
-	# Sample Code
-	for i in range(1, 5):
-		print(i)
-
-.. code-block:: java
-	:linenos:
-	:caption: Sample Java
-
-	public static void main(String args[]) {
-		System.out.println("hi");
-	}
-
-Sample Table
-------------
-
-========= =================
-Fruit     Review
-========= =================
-Apple     3 stars
-Grapes    3 stars
-Pears     5 stars
-========= =================
 
