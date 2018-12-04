@@ -1,6 +1,9 @@
 XBOX Pages
 ==========
 
+.. image:: xboxlogo.png
+   :width: 25%
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
