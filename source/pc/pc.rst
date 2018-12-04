@@ -5,7 +5,7 @@ PC Pages
    :maxdepth: 2
    :caption: Contents:
 
-   pc_pages/history
-   pc_pages/games
    pc_pages/platform
+   pc_pages/game_history
    pc_pages/reviews
+   pc_pages/emulators
