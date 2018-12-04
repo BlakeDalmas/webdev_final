@@ -14,8 +14,10 @@ needed for these consoles. SIE now has its headquarters in San Mateo, California
 while still being a subsidiary of Sony Corporation. The President and CEO of SIE 
 is John Kodera while in total there are roughly 8,000 employees.  
 
-.. image:: ps_hq.jpg
+.. figure:: ps_hq.jpg
 	:width: 100%
+
+	https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment#/media/File:US_PlayStation_HQ_(30344827735).jpg
 
 Links
 -----

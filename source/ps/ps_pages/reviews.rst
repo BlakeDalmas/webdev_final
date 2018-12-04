@@ -7,8 +7,10 @@ PlayStation
 Being the most sold gaming console it can be deemed the most successful console
 and to many people the best overall gaming device. 
 
-.. image:: consoles.jpg
+.. figure:: consoles.jpg
    :width: 100%
+
+   http://playstation.wikia.com/wiki/Main_Page
 
 Cost
 ----
