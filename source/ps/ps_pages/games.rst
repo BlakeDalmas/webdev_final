@@ -1,82 +1,46 @@
 Games
 =====
 
-This
-is
-all
-one
-paragraph.
+With PlayStation being the best selling gaming console there is also a plethora
+of games released for the multiple consoles that they have released over the years. 
 
-This is *italics*.
+Top Games for each PlayStation Consoles
+---------------------------------------
 
-These are **bold**.
+PlayStation
+~~~~~~~~~~~
 
-* This is a list.
-* This is another element of the aforementioned list.
-* These words consist of the content associated with the list mentioned preiovusly.
+* Gran Turismo has sold over 10.85 million copies on PS1.
+* Released 1997
 
-	* It's another list!
-	* It's a sublist!
+PlayStation 2
+~~~~~~~~~~~~~
 
-		* And another sublist!
+* Grand Theft Auto: San Andreas sold 17.33 million copies on PS2.
+* Released 2004
 
-			* Sublists!
+PlayStation 3
+~~~~~~~~~~~~~
 
-Go to `Simpson`_ like this:
+* Gran Turismo 5 took back the most sold game for PS3 with 11.94 million copies.
+* Released 2010
 
-.. _Simpson: http://simpson.edu
+PlayStation 4
+~~~~~~~~~~~~~
 
-Or like this: `Google <https://www.google.com>`_
+* Once again Grand Theft Auto V took the number one spot with over 90 million copies
+  sold, however, not all of these were sold on PS4.
+* Released 2013
 
-``This is monospaced text.``
 
-Images:
+Other Best Selling Games
+------------------------
 
-.. image:: example.png
-   :width: 50%
-
-.. figure:: example.png
-   :width: 50%
-
-   This caption on picture needs to be indented by 3 spaces and have a blank line above it.
-
-This is a level 2 heading
--------------------------
-
-Another heading
-
-This is another 2
------------------
-
-blah
-
-Level 3
-~~~~~~~
-
-.. code-block:: python
-	:linenos:
-	:caption: Sample Code
-
-	# Sample Code
-	for i in range(1, 5):
-		print(i)
-
-.. code-block:: java
-	:linenos:
-	:caption: Sample Java
-
-	public static void main(String args[]) {
-		System.out.println("hi");
-	}
-
-Sample Table
-------------
-
-========= =================
-Fruit     Review
-========= =================
-Apple     3 stars
-Grapes    3 stars
-Pears     5 stars
-========= =================
-
+* FIFA 18
+   * Released 2017
+* God of War
+   * Released 2018
+* The Last of Us Remastered
+   * Released 2014
+* Detroit: Become Human
+   * Released 2018
