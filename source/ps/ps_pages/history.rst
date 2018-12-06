@@ -20,7 +20,8 @@ of gaming console.
 .. figure:: ps1_pic.jpg
 	:width: 100%
 
-	https://en.wikipedia.org/wiki/PlayStation_(console)#/media/File:PSX-Console-wController.jpg
+	Picture is public domain found from the wikipedia page on
+	`ps1. <https://en.wikipedia.org/wiki/PlayStation_(console)#/media/File:PSX-Console-wController.jpg>`_
 
 PlayStation 2
 -------------
@@ -32,7 +33,8 @@ having sold over 155 million units world wide.
 .. figure:: ps2_pic.jpg
 	:width: 100%
 
-	https://en.wikipedia.org/wiki/PlayStation_2#/media/File:PS2-Versions.jpg
+	This image came from the Wikipedia page on the 
+	`PS2. <https://en.wikipedia.org/wiki/PlayStation_2#/media/File:PS2-Versions.jpg>`_
 
 PlayStation Portable
 --------------------
@@ -46,7 +48,8 @@ hand-held game console market.
 .. figure:: psp_pic.png
 	:width: 100%
 
-	https://www.lifewire.com/things-to-do-with-psp-2792818
+	Image for the PSP is from
+	`lifewire. <https://www.lifewire.com/things-to-do-with-psp-2792818>`_
 
 PlayStation 3
 -------------
@@ -60,7 +63,8 @@ released the PS3 Super Slim.
 .. figure:: ps3_pic.jpg
 	:width: 100%
 
-	https://en.wikipedia.org/wiki/PlayStation_3#/media/File:Sony-PlayStation-3-2001A-wController-L.jpg
+	This image came from the Wikipedia page on the
+	`PS3. <https://en.wikipedia.org/wiki/PlayStation_3#/media/File:Sony-PlayStation-3-2001A-wController-L.jpg>`_
 
 PlayStation 4
 -------------
@@ -74,7 +78,8 @@ out in 2016.
 .. figure:: ps4_pic.jpg
 	:width: 100% 
 
-	https://www.gamespot.com/articles/ps4-vs-ps4-pro-vs-ps4-slim-what-are-the-difference/1100-6456440/
+	Image from `Gamespot <https://www.gamespot.com/articles/ps4-vs-ps4-pro-vs-ps4-slim-what-are-the-difference/1100-6456440/>`_ 
+	page on PS4.
 
 Time Table
 ----------

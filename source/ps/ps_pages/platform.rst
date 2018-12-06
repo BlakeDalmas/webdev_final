@@ -17,7 +17,8 @@ is John Kodera while in total there are roughly 8,000 employees.
 .. figure:: ps_hq.jpg
 	:width: 100%
 
-	https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment#/media/File:US_PlayStation_HQ_(30344827735).jpg
+	Image from `Wikipedia <https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment#/media/File:US_PlayStation_HQ_(30344827735).jpg>`_
+	page on SIE.
 
 Links
 -----
