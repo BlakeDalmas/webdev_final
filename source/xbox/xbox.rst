@@ -1,8 +1,12 @@
 XBOX Pages
 ==========
 
-.. image:: xboxlogo.png
+.. figure:: xboxlogo.png
    :width: 25%
+
+   From: `Wikimedia`_
+
+.. _Wikimedia: https://commons.wikimedia.org/wiki/File:Xbox_one_logo.svg
 
 .. toctree::
    :maxdepth: 2
