@@ -7,20 +7,24 @@ Some of the Wii's most popular games are:
 
 **Wii Sports**
 
+.. _Know Your Meme: https://knowyourmeme.com/photos/1220700-mii
+
 .. figure:: wii_sports_2.jpg
    :width: 50%
 
-   https://goo.gl/images/PYo8xa
+   Image: `Know Your Meme`_
 
 *Wii Sports* was released in 2006 and can play up to 4 people. This games 
 offers many different sports, such as tennis, bowling, golf, boxing and more! 
 
 **Mario Kart**
 
-.. figure:: mario_kart_2.jpg
+.. _Nintendo: https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Mario-Kart-Wii/Bringing-Racers-Together/4-Mario-Kart-X/4-Mario-Kart-X-214639.html
+
+.. figure:: mario_kart_3.png
    :width: 50%
 
-   https://goo.gl/images/kCv7fj
+   Image: `Nintendo`_
 
 *Mario Kart* was released in 2008 and can play up to 12 people. This is a fun
  racing game with all of your favorite courses from previous Nintendo system, 
@@ -29,10 +33,12 @@ offers many different sports, such as tennis, bowling, golf, boxing and more!
 
 **Just Dance**
 
+.. _Walmart: https://www.walmart.com/ip/Just-Dance-2018-Ubisoft-Nintendo-Wii-887256028251/55885490
+
 .. figure:: just_dance_2.jpeg
    :width: 50%
 
-   https://goo.gl/images/fbAsP9
+   Image: `Walmart`_
 
 *Just Dance* is a dancing series game, with new games released every year. 
 These games feature the most current popular songs and is motion-based, with 

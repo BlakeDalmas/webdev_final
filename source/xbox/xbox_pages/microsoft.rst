@@ -6,7 +6,10 @@ Microsoft
 
    Microsoft Logo - from: theverge.com
 
-   Xbox was created and is currently owned by Microsoft Corporation. Microsoft is a multinational tech company that devolops, manufactures, licenses, supports, and sells computer software, consumer electronics, and personal computers.
+   Xbox was created and is currently owned by Microsoft Corporation. Microsoft 
+   is a multinational tech company that devolops, manufactures, licenses, 
+   supports, and sells computer software, consumer electronics, and personal 
+   computers.
 
 History
 -------
@@ -32,7 +35,12 @@ Released Windows 10							 2015
 
 Xbox Sales
 ----------
-Microsoft does not make a lot of money selling consoles. At the initial release, the Xbox one consoles sold for $499 but it cost the company $471 to make each console - only a $28 profit. It makes most of the profits from Xbox from the Xbox Live Service. Xbox Live cost $40 every year for a subscription and had 48 million subscribers in 2017. That results in a profit of around $1.92 billion dollars every year. 
+Microsoft does not make a lot of money selling consoles. At the initial release,
+ the Xbox one consoles sold for $499 but it cost the company $471 to make each 
+ console - only a $28 profit. It makes most of the profits from Xbox from the 
+ Xbox Live Service. Xbox Live cost $40 every year for a subscription and had 48 
+ million subscribers in 2017. That results in a profit of around $1.92 billion 
+ dollars every year. 
 
 ========= ============
 Console   Units Sold
