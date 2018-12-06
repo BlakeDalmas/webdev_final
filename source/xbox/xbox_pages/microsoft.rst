@@ -8,10 +8,9 @@ Microsoft
 
 .. _The Verge: https://www.theverge.com/2012/8/23/3262517/microsoft-new-logo
 
-   Xbox was created and is currently owned by Microsoft Corporation. Microsoft 
-   is a multinational tech company that devolops, manufactures, licenses, 
-   supports, and sells computer software, consumer electronics, and personal 
-   computers.
+Xbox was created and is currently owned by Microsoft Corporation. Microsoft is a
+multinational tech company that devolops, manufactures, licenses, supports, and 
+sells computer software, consumer electronics, and personal computers.
 
 History
 -------
