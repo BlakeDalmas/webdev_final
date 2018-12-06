@@ -10,7 +10,8 @@ and to many people the best overall gaming device.
 .. figure:: consoles.jpg
    :width: 100%
 
-   http://playstation.wikia.com/wiki/Main_Page
+   Image from `Wiki Fandom <http://playstation.wikia.com/wiki/Main_Page>`_ 
+   page for PlayStation.
 
 Cost
 ----

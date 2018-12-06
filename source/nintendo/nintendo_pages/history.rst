@@ -10,10 +10,12 @@ Wii provided a low-cost gaming system that featured multiplayer "party"
 games and soon became a go-to party game. The Wii quickly established the
 largest user base of all gaming systems. 
 
+.. _GameStop: https://www.gamestop.com/wii/consoles/nintendo-wii-system-original-white/113363
+
 .. figure:: wii_system.jpg
    :width: 50%
 
-   https://goo.gl/images/yLr1mK
+   Image:`GameStop`_
 
 Controllers
 -------------------------
@@ -36,8 +38,9 @@ Racing wheel   $14.99
 Floor Mat      $19.99
 ============= =================
 
+.. _Amazon: https://www.amazon.com/slp/wii-accessories/9f2kev96fvfa7cq
 .. figure:: wii_accessories.jpg
    :width: 40%
 
-   https://goo.gl/images/euYe8m
+   Image: `Amazon`_
 

@@ -4,10 +4,12 @@ Reviews
 Nintendo Wii
 ------------
 
+.. _Ratings: http://www.thisisradelaide.com.au/rad-life/2018/3/8/adelaide-fringe-18-review-tom-gleeson-sure-thing
+
 .. figure:: star_rating.png
    :width: 50%
 
-   https://goo.gl/images/r2Go5a
+   Image: `Ratings`_
 
 
 ============ =================
