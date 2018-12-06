@@ -29,7 +29,7 @@ PlayStation 2
 	:width: 100%
 
 	This image is from the `YouTube <https://www.youtube.com/watch?v=iatwtB6-kHA>`_ 
-	video on the Trailer for this page.
+	video on the Trailer for this game.
 
 PlayStation 3
 ~~~~~~~~~~~~~
