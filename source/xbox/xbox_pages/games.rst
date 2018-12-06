@@ -28,9 +28,9 @@ Call of Duty: Modern Warfare 3
 
 .. _Amazon: https://www.amazon.com/Call-Duty-Modern-Warfare-Xbox-360/dp/B009DKVVBU
 
-   *Call of Duty: Modern Warfare 3* was released on November 8, 2011 and the Xbox 
-   360's best-selling game with 14.23 million copies sold worldwide. *Call of 
-   Duty MW3* is a first-person shooter game developed by Infinity Ward and 
+   *Call of Duty: Modern Warfare 3* was released on November 8, 2011 and was the 
+   Xbox 360's best-selling game with 14.23 million copies sold worldwide. *Call 
+   of Duty MW3* is a first-person shooter game developed by Infinity Ward and 
    Sledgehammer Games and is published by Activision. It is the eighth 
    installment of the *Call of Duty* franchise and the third installment of the 
    Modern Warfare story line.
@@ -49,7 +49,7 @@ Call of Duty: Black Ops III
 
    *Call of Duty: Black Ops 3* was released on November 6, 2015 and was the Xbox 
    One's best-selling game as of 2016 with 7.24 million copies sold. *Call of 
-   Duty: Black Ops 3* is a first-person shooter game developed by Trayarch and 
+   Duty: Black Ops 3* is a first-person shooter game developed by Treyarch and 
    published by Activision. It is the twelfth installment in the *Call of Duty* 
    franchise and the third installment of the Black Ops story line.
 
