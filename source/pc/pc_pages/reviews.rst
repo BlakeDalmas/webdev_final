@@ -9,8 +9,8 @@ processor. This section will compare popular examples of these.
 Graphics Cards
 --------------
 
-The two most popular brands for video cards / graphics cards is Nvidia and AMD.
-The best these two brands have to currently offer are the following.
+The two most popular brands for video cards / graphics cards are Nvidia and AMD.
+The best cards these brands have to offer are the followin.
 
 **NVIDIA - TITAN RTX**
 
@@ -18,11 +18,15 @@ The best these two brands have to currently offer are the following.
    :width: 778px
    :height: 495px
 
+   `Image from: HotHardware <https://hothardware.com/news/nvidia-titan-rtx-turing-gpu-24gb-gddr6-11-gigarays-ray-tracing>`__
+
 **AMD - Radeon RX Vega 64**
 
 .. figure:: radeon_vega.png
    :width: 778px
    :height: 376px
+
+   `Image from: OverclockersUK <https://www.overclockers.co.uk/powercolor-radeon-rx-vega-64-red-devil-8gb-hbm2-pci-express-graphics-card-gx-190-pc.html>`__
 
 **Comparison**
 
@@ -42,7 +46,7 @@ price, while AMD is arguably, "better bang for your buck".
 Processors
 ----------
 
-The two most popular brands for processors is Intel and AMD. The following
+The two most popular brands for processors are Intel and AMD. The following
 two processors being compared are some of the fastest ones available on the
 market.
 
@@ -52,11 +56,15 @@ market.
    :width: 213px
    :height: 186px
 
+   `Image from: PCMag <https://www.pcmag.com/article2/0,2817,2489197,00.asp>`__
+
 **AMD FX-8350**
 
 .. figure:: fx.png
    :width: 213px
    :height: 205px
+
+   `Image from: Ebay <https://www.ebay.com/itm/AMD-FX-8350-1-x1-Chrome-Domed-Case-Badge-Sticker-Logo-/252121727238>`__
 
 **Comparison**
 
@@ -67,21 +75,14 @@ AMD FX-8350 4.0 GHz   4.2 GHz 8     $77
 i7-6700K    4.0 GHz   4.2 GHz 4     $320
 =========== ========= ======= ===== =====
 
-These two are pretty much the same preformance-wise. There may be certain
-features one card has over another, but overall the preformance would be hard
+These two are pretty much the same performance-wise. There may be certain
+features one card has over another, but overall the performance would be hard
 to distinguish. Despite this, the price for the FX-8350 seems to be
 significantly cheaper. However, there could be other sources where the prices
 for these processors are lower.
 
-.. Sources
-.. https://www.techpowerup.com/gpu-specs/
-.. https://www.techpowerup.com/cpudb/
+**Additional Sources**
 
-.. Pictures:
-.. https://hothardware.com/news/nvidia-titan-rtx-turing-gpu-24gb-gddr6-11-gigar
-.. ays-ray-tracing
-.. https://www.overclockers.co.uk/powercolor-radeon-rx-vega-64-red-devil-8gb-
-.. hbm2-pci-express-graphics-card-gx-190-pc.html
-.. https://www.pcmag.com/article2/0,2817,2489197,00.asp
-.. https://www.ebay.com/itm/AMD-FX-8350-1-x1-Chrome-Domed-Case-Badge-Sticker-Lo
-.. go-/252121727238
+https://www.techpowerup.com/gpu-specs/
+
+https://www.techpowerup.com/cpudb/
