@@ -2,15 +2,15 @@ Games and History
 =================
 
 Throughout the history of PC gaming, many titles have been released that had a
-profound effect on the video game industry. This section only scratches the
-surface with a few notable examples. 
+profound effect on the video game industry. This section describes a few 
+interesting examples of these games.
 
 The First Game
 --------------
 
 One of the earliest examples of a video game is, "Tennis for Two" which was
 designed in 1958 for the Donner Model 30 Analog Computer. The game was displayed 
-on an oscilloscope and featured a simple match of tenis.
+on an oscilloscope and featured a simple match of tennis.
 
 .. figure:: tennis.jpg
    :width: 330px
@@ -22,8 +22,8 @@ on an oscilloscope and featured a simple match of tenis.
 Text-Adventure Games
 --------------------
 
-Eventually, there came other famous examples such as Pong and Pacman. However,
-some of the earliest examples of PC games were the text-adventure games.
+Eventually, other famous games such as Pong and Pacman came out. However,
+some of the earliest games played on PC were text-adventure games.
 Specifically, the first known example, "Colossal Cave Adventure" was made in 
 1976 by Will Crowther for the PDP-10 Mainframe.
 
@@ -38,7 +38,7 @@ DOOM
 ----
 
 Over time, as computers got more advanced, games with actual graphics were
-released and popularised. One of the most influential examples in PC gaming
+released and popularized. One of the most influential examples in PC gaming
 history was, "DOOM". Doom was released in 1993 by ID Software and ran on MS-DOS.
 
 .. figure:: doom.png
@@ -48,36 +48,50 @@ history was, "DOOM". Doom was released in 1993 by ID Software and ran on MS-DOS.
    Doom is a fast-paced first person shooter where you kill endless hordes
    of demons.
 
+Age of Empires II
+-----------------
+
+Age of Empires II is a popular example of a real-time strategy game. It was
+developed by Ensemble Studios and released in 1999. The game sold 2 million
+copies and was considered to have shaped future generations of real-time
+strategy games.
+
+.. figure:: aoeii.jpg
+   :width: 365px
+   :height: 273px
+
+   In Age of Empires II, you build towns, gather resources and command soldiers 
+   to destroy your enemies.
+
 Morrowind
 ---------
 
-This technology continued to advance and in 2002 games with much larger maps
+Technology continued to advance and in 2002 games with much larger maps
 and playable areas were being released. An example of this is, "The Elder
-Scrolls III : Morrowind", one of my personal favorites. Morrowind is an 
-open-world action RPG that takes pace in a strange alien-like world accompanied
-with giant mushrooms, volcanoes, and interesting geography. There's hundreds of 
-quests, items, NPCs, and interesting things to discover. The graphics for the 
-game, as seen below, were impressive at the time. This game helped popularise 
-the Elder Scrolls franchise, further setting the scene for even more sucessful 
+Scrolls III : Morrowind", The graphics for the game, as seen below, were 
+impressive at the time. The success of this game helped popularize the 
+Elder Scrolls franchise, further setting the scene for even more successful 
 titles like Oblivion and Skyrim.
 
 .. figure:: morrowind.jpg
    :width: 330px
    :height: 248px
 
-   In Morrowind, you start as a Prisoner on a ship who receives a vision warning
-   of the blight at Red Mountain. Your quest is to fulfill the prophecy of
-   killing Dagoth Ur and ending the blight afflicting the people of Vvardenfell.
+   One of my personal favorites, Morrowind is an open-world action RPG that 
+   takes pace in a strange alien-like world accompanied with giant mushrooms, 
+   a giant volcano, and interesting geography. There are hundreds of quests, 
+   items, NPCs, and interesting things to discover.
 
 Half-Life 2
 -----------
 
-Shortly after, accompanied with the advent of Steam. A game was released that
-had the same levels of influence that DOOM had. This game arguably shaped the 
-future of video games for years to come. Half-Life 2 was released in 2004 and 
-brought revolutionary graphics, physics, AI, and more to the video game 
-industry. To this day, Half-Life 2 is still played and modded through platforms 
-such as Garry's Mod and Synergy.
+Half-Life 2 was released in 2004, shortly after the launch of Steam. This game
+had impressive graphics and introduced a revolutionary physics engine that 
+opened the door to interesting possibilities. One example of this is a weapon in 
+the game called, "The Gravity Gun". With the Gravity Gun, you can launch chairs, 
+sawblades, and other random objects at your enemies. Half-Life 2 had a massive 
+influence on the video game industry and arguably shaped its future for years to 
+come.
 
 .. figure:: hl2.jpg
    :width: 329px
@@ -86,25 +100,27 @@ such as Garry's Mod and Synergy.
    In Half-Life 2, you play as the theoretical physicist Gordon Freeman. After
    the events at Black Mesa in Half-Life 1, you find yourself in City 17 under
    the dystopian control of the Combine. You join forces with the resistance
-   to fight through hordes of Combine Soldiers and zombies in the persuit of
+   to fight through hordes of Combine Soldiers and zombies in the pursuit of
    destroying these multidimensional overlords.
 
-Team Fortress 2
----------------
+Crysis
+------
 
-Around this time, the popularity of multiplayer games was increasing. 
-World of Warcraft, Unreal Tournament, and other popular titles were 
-being played across the world. In 2007, Valve, the creators of Half-Life 2, 
-released Team Fortress 2. TF2 featured a unique art style, and to this day, the
-game is still regularly played and updated.
+Crysis is a first-person shooter released in 2007 by Electronic Arts (EA). 
+The graphics for this game were revolutionary at the time and it was a huge
+success. Crysis featured volumetric lighting, motion blur, 
+high quality textures, thousands of shaders, and other features that made the 
+game look outstanding. As a consequence for the good graphics, this game
+was very computationally expensive. Because of this, Crysis is commonly used 
+as a benchmark to rate the quality of hardware.
 
-.. figure:: tf2.jpg
-   :width: 330px
-   :height: 330px
+.. figure:: crysis.png
+   :width: 365px
+   :height: 273px
 
-   Team Fortress 2 is a multiplayer team-based PvP first person shooter with 9
-   different classes to choose from. Later on, the game would include hundreds
-   of different weapons and hats you could equip as well.
+   Taking place in the future, an ancient alien structure was discovered in a
+   mountain in the Philippines. You must survive on an island against hordes of 
+   extraterrestrials and the North Korean military.
 
 Minecraft
 ---------
@@ -128,7 +144,7 @@ CS:GO
 
 In 2012, Valve released Counter-Strike : Global Offensive (CS:GO). This game was
 a major contributor for setting the scene of highly competitive multiplayer
-video games, eventually leading to the popularisation and creation of ESports.
+video games, eventually leading to the popularization and creation of ESports.
 As you can see in the picture below, the graphics of video games reached very
 high levels around this time.
 
@@ -171,3 +187,5 @@ video game graphics and technology has come since then.
 .. https://en.wikipedia.org/wiki/Minecraft
 .. https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive
 .. https://www.youtube.com/watch?v=aXRTbLCJH40
+.. https://en.wikipedia.org/wiki/Age_of_Empires_II
+.. https://en.wikipedia.org/wiki/Crysis_(video_game)
