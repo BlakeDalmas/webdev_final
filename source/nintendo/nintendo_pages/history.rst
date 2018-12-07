@@ -15,7 +15,7 @@ largest user base of all gaming systems.
 .. figure:: wii_system.jpg
    :width: 50%
 
-   Image:`GameStop`_
+   Image: `GameStop`_
 
 Controllers
 -------------------------
@@ -24,7 +24,8 @@ a new wireless remote. There is no longer need for buttons, the Wii remote
 connects to a wireless sensor attached to the console. Now movement can control 
 the game. Nintendo has also released several accessories that are wireless and 
 can be used by the Wii. Some of these accessories include a balance board, 
-racing wheel, floor mat, and many more!
+racing wheel, floor mat, and many more! These accessories allow the user to 
+actually feel as though they are experiencing the game.
 
 Wii Accessories
 ~~~~~~~~~~~~~~~

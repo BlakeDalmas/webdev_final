@@ -20,15 +20,15 @@ realized that the playing card business was not a very wide business and started
 to look into other areas the company could pursue. Over the years, they
 attempted taxi, love hotel chains, TV network, food company, and many other
 businesses. In 1966, the company tried the toy industry. They created a few
-popular toys, but overall, they were not having a large among of success until
-they shifted focuses and came out with the Laser Clay Shooting System. After the
+popular toys, but overall, they were not having a large amount of success until
+they shifted focuses and came out with the *Laser Clay Shooting System*. After the
 success of this product, Nintendo released many other light gun machines for
 arcades.
 
 Video Game Industry
 -------------------
 In 1974, Nintendo ventured into the
-gaming industry and distributed the Magnavox Odyssey video game console. In
+gaming industry and distributed the *Magnavox Odyssey* video game console. In
 1975, the company moved into video arcade games and hired their first game
 designer. They had success, but nothing compared to the success they gained from
 the release of *Donkey Kong* in 1981. This was designed by Miyamoto and launched
