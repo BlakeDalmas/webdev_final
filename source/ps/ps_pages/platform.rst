@@ -1,9 +1,15 @@
 Platform
 ========
 
-The PlayStation Consoles are sold from the a subsidiary of Sony called
-Sony Interactive Entertainment formerly known as Sony Computer Entertainment, and
-has been around since 1993. 
+The PlayStation Consoles are sold from a subsidiary of Sony called
+Sony Interactive Entertainment formerly known as Sony Computer Entertainment. This
+subsidiary of Sony has been around since 1993 and has been dedicated to developing
+and marketing the PlayStation devices throughout the years. SIE's parent company 
+Sony was founded 1946 after WWII where it was a small department store in Tokyo.
+With growing success including having built the first tape recorder they eventually
+became the world renowned company we know of today. But for the rest of this page 
+we will focus on the company Sony Interactive Entertainment which has been the 
+developer of the PlayStation Consoles.
 
 History
 -------

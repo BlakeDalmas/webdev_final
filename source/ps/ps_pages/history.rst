@@ -2,12 +2,12 @@ History
 =======
 
 The PlayStation has been around since the first installment of it the PS1 in 1994.
-Since this start they have made 3 major additions with the latest being the PS4, 
+Since this start, they have made 3 major additions with the latest being the PS4, 
 which was released in 2013 and has had a few refreshes since this release. Along 
-with these main gaming consoles they also released a portable version of their console
+with these main gaming consoles, they also released a portable version of their console
 called the PSP which released in 2005. With a history as long as Playstation's 
 there is a lot to learn about this console that is now a household name and owned
-by millions. 
+by millions.
 
 PlayStation 1
 -------------
@@ -27,8 +27,8 @@ PlayStation 2
 -------------
 
 The PS2 came out in 2000 and was instantly a big competitor to many of the other
-consoles being released during the time. It was also the best selling console ever
-having sold over 155 million units world wide. 
+consoles being released during the time. It was also the bestselling console ever
+having sold over 155 million units worldwide.
 
 .. figure:: ps2_pic.jpg
 	:width: 100%
@@ -55,7 +55,7 @@ PlayStation 3
 -------------
 
 Another 6 years after the PS2 came out Sony released the PlayStation 3 as the 3rd
-installment of their console and like the previous two it soled by the millions.
+installment of their console and like the previous two it sold by the millions.
 Unlike the previous PlayStations the PS3 had 2 revives after the initial release.
 The first reinstatement came in 2009 and was the PS3 Slim, 3 years after that they
 released the PS3 Super Slim. 
@@ -70,8 +70,8 @@ PlayStation 4
 -------------
 
 The latest installment of the PlayStation series is the PS4 which was released
-in 2013. With this being the latest version of the series it is also by far the 
-most powerful. after its initial release date there have been two major revisions 
+in 2013. With this being the latest version of the series, it is also by far the 
+most powerful. After its initial release date there have been two major revisions 
 of the console with the PlayStation 4 Slim and then the PlayStation 4 Pro coming 
 out in 2016. 
 
