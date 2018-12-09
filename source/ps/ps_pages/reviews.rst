@@ -5,7 +5,9 @@ PlayStation
 -----------
 
 Being the most sold gaming console it can be deemed the most successful console
-and to many people the best overall gaming device. 
+and to many people the best overall gaming device. Overall the consensus on the
+PlayStation consoles have been very positive and PlayStation is likely to continue
+to dominate the console market for the foreseeable future. 
 
 .. figure:: consoles.jpg
    :width: 100%
