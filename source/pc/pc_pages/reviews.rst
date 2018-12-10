@@ -10,7 +10,7 @@ Graphics Cards
 --------------
 
 The two most popular brands for video cards / graphics cards are Nvidia and AMD.
-The best cards these brands have to offer are the followin.
+The best cards these brands have to offer are the following.
 
 **NVIDIA - TITAN RTX**
 
@@ -42,6 +42,8 @@ better than the RX Vega 64 and includes support for realtime ray-tracing.
 However, the Titan RTX is also far more expensive. This is a common theme
 between AMD and NVIDIA. NVIDIA tends to have faster cards at a higher
 price, while AMD is arguably, "better bang for your buck".
+
+`Realtime Ray-Tracing Example <https://www.youtube.com/watch?v=KJRZTkttgLw>`_
 
 Processors
 ----------

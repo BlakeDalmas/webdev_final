@@ -71,8 +71,8 @@ strategy games.
 
    https://en.wikipedia.org/wiki/Age_of_Empires_II
 
-Morrowind
----------
+The Elder Scrolls III : Morrowind
+---------------------------------
 
 Technology continued to advance and in 2002 games with much larger maps
 and playable areas were being released. An example of this is, *The Elder
@@ -85,9 +85,9 @@ titles like *Oblivion* and *Skyrim*.
    :width: 330px
    :height: 248px
 
-   One of my personal favorites, Morrowind is an open-world action RPG that 
-   takes pace in a strange alien-like world accompanied with giant mushrooms, 
-   a giant volcano, and interesting geography. There are hundreds of quests, 
+   One of my personal favorites, The Elder Scrolls III : Morrowind is an open-world 
+   action RPG that takes pace in a strange alien-like world accompanied with giant 
+   mushrooms, a giant volcano, and interesting geography. There are hundreds of quests, 
    items, NPCs, and interesting things to discover.
 
    https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind
@@ -168,7 +168,7 @@ high levels around this time.
    :width: 330px
    :height: 185px
 
-   CS:GO is a highly competitive multiplayer first person shooter. 
+   This game is a highly competitive multiplayer first person shooter. 
    Two teams of 6 players take turns playing as either the Terrorists or 
    Counter-Terrorists. The Terrorists try to blow up a site with a bomb and 
    the Counter-Terrorists try to prevent this from happening.

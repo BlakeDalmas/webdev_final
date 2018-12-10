@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-What title should go here?
-==========================
+Video Game Platforms
+====================
 
-Some text describing the entire website.
+This website covers a range of different topics from four video game platforms.
+These platforms are XBox, Nintendo, Playstation, and PC. The pages assocaited
+with each platform can be found in the table of contents below.
 
 .. toctree::
    :maxdepth: 2
