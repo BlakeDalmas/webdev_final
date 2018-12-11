@@ -3,7 +3,7 @@ Games
 
 The Wii is a very popular Nintendo game because of it's ability to be active while playing. The controllers are wireless and require movement in order to control the game. 
 
-Some of the Wii's most popular games are:
+**Some of the Wii's most popular games are:**
 
 **Wii Sports**
 
@@ -19,12 +19,12 @@ offers many different sports, such as tennis, bowling, golf, boxing and more!
 
 **Mario Kart**
 
-.. _Nintendo: https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Mario-Kart-Wii/Bringing-Racers-Together/4-Mario-Kart-X/4-Mario-Kart-X-214639.html
+.. _Amazon: https://www.amazon.com/Mario-Kart-Wii-nintendo/dp/B001GIUWX0
 
-.. figure:: mario_kart_3.png
+.. figure:: mario_kart_4.jpg
    :width: 50%
 
-   Image: `Nintendo`_
+   Image: `Amazon`_
 
 *Mario Kart* was released in 2008 and can play up to 12 people. This is a fun
  racing game with all of your favorite courses from previous Nintendo system, 
