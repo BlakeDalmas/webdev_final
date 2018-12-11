@@ -26,10 +26,11 @@ offers many different sports, such as tennis, bowling, golf, boxing and more!
 
    Image: `Amazon`_
 
+
 *Mario Kart* was released in 2008 and can play up to 12 people. This is a fun
- racing game with all of your favorite courses from previous Nintendo system, 
- plus many new, exciting courses! This game also allows the user to purchase a
- Wii Wheel to transform the remote into a steering wheel. 
+racing game with all of your favorite courses from previous Nintendo systems, 
+plus many new, exciting courses! This game also allows the user to purchase a
+Wii Wheel to transform the remote into a steering wheel.
 
 **Just Dance**
 
@@ -46,15 +47,15 @@ each song having its own choreography.
 
 Other popular Wii games:
 
-* Super Smash Bros.
+* *Super Smash Bros*
 	* Released: 2008
-* The Sims 3
+* *The Sims 3*
 	* Released: 2009
-* Mario & Sonic at the Olympic Games
+* *Mario & Sonic at the Olympic Games*
 	* Released: 2008
-* Super Mario Galaxy
+* *Super Mario Galaxy*
 	* Released: 2007
-* Wii Sports Resort
+* *Wii Sports Resort*
 	* Released: 2009
 
 

@@ -13,7 +13,7 @@ Nintendo Wii
 
 
 ============ =================
-Feature      Score(0-10)
+Feature      Score (0-10)
 ============ =================
 Design        6
 Ecosystem     6
@@ -22,7 +22,7 @@ Performance   7
 Value         7
 ============ =================
 
-The Wii is a family-friendly gaming system for people of all ages skill levels. 
+The Wii is a family-friendly gaming system for people of all ages and skill levels. 
 With its easy-to-use controllers and friendly games, this gaming system can be
 used by anyone. Not to mention this system won't break your wallet! There are 
 many exciting games available for the Wii, including popular games such as 
@@ -32,7 +32,7 @@ order to play the games. There are all many games, such as Wii Fitness, that
 have games specifically to help increase your heart rate.
 
 Some minor weaknesses are found in the accuracy of the controllers. Several 
-people have addressed the fact that the controls seem delayed or imprecise. It 
+people have addressed the fact that the controllers seem delayed or imprecise. It 
 also does not possess high-definition graphics that many users are currently 
 looking for. 
 

@@ -1,8 +1,12 @@
 Games
 =====
 
-With PlayStation being the best selling gaming console there is also a plethora
-of games released for the multiple consoles that they have released over the years. 
+With PlayStation being the bestselling gaming console there is also a plethora
+of games released for the multiple consoles that they have released over the years.
+With many games released exclusively for PlayStation there has been an endless
+supply of new games. With the latest PS4 they have been able to add an internal
+store on the device that allows you to also download many free games along with
+the many major titles.  
 
 Top Games for each PlayStation Consoles
 ---------------------------------------

@@ -21,6 +21,8 @@ Project 64
    :width: 84px
    :height: 96px
 
+   https://en.wikipedia.org/wiki/Project64
+
 Project 64 is one of the most popular examples of an emulator. It was written
 in C and emulates a Nintendo 64. Project 64 allows you to play thousands of 
 Nintendo 64 games completely for free. Some examples of these games are.
@@ -37,17 +39,21 @@ Cemu
 ----
 
 .. figure:: cemu.png
-   :width: 412px
-   :height: 128px
+   :width: 315px
+   :height: 92px
+
+   `Image from: GameTechWiki <http://emulation.gametechwiki.com/index.php/Cemu>`__
 
 Cemu is an in-development emulator that emulates the Wii U. You can play famous
 titles on it such as The Legend of Zelda: Breath of the Wild and Super Mario
 3D World. Cemu also introduces new features such as 4k resolution support and
-increased frame-rates. However, since it's still being developed, the emulator
-has some stability issues and certain games will not work correctly on it.
+increased frame-rates. 
 
-.. Sources (including images):
-.. https://en.wikipedia.org/wiki/Project64
-.. https://en.wikipedia.org/wiki/Cemu
-.. http://cemu.info/
-.. https://pacot.es/t/hilo-oficial-cemu-1-14-0-cargada-de-mejoras-para-todos/147
+.. WARNING::
+   Cemu is still in development and has some stability issues. Certain games will
+   not work correctly on it.
+
+**Other Sources**
+
+* https://en.wikipedia.org/wiki/Cemu
+* http://cemu.info/
