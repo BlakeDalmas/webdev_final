@@ -47,8 +47,11 @@ Cemu
 Cemu is an in-development emulator that emulates the Wii U. You can play famous
 titles on it such as The Legend of Zelda: Breath of the Wild and Super Mario
 3D World. Cemu also introduces new features such as 4k resolution support and
-increased frame-rates. However, since it's still being developed, the emulator
-has some stability issues and certain games will not work correctly on it.
+increased frame-rates. 
+
+.. WARNING::
+   Cemu is still in development and has some stability issues. Certain games will
+   not work correctly on it.
 
 **Other Sources**
 
